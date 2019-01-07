@@ -1,0 +1,3 @@
+- [Bret Victor - Inventing on Principle on Vimeo](https://vimeo.com/36579366)
+- [Zach Lieberman](https://zachlieberman.tictail.com/)
+- [Alex McLean – Making music with text[ure]](http://slab.org/)
